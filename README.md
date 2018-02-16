@@ -1,1 +1,2 @@
 # repositorio2
+ATOR1 ATOR2 ATRIZ1 ATRIZ2 
